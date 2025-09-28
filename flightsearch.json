@@ -3,35 +3,42 @@
     {
       "flight_id": "6E205",
       "airline": "IndiGo",
-      "depart_local": "2025-10-12T18:30:00+05:30",
-      "arrive_local": "2025-10-12T21:00:00+05:30",
+      "origin_iata": "BLR",
+      "destination_iata": "DEL",
+      "depart_date": "2025-10-12 18:30 IST",
+      "arrive_date": "2025-10-12 21:00 IST",
       "duration_min": 150,
       "stops": 0,
       "fare_family": "SAVER",
-      "baggage_allow": "15kg",
-      "total_fare_inr": 8450
+      "baggage_allowance": "15kg",
+      "total_fare": 8450
     },
     {
       "flight_id": "SG812",
       "airline": "SpiceJet",
-      "depart_local": "2025-10-12T19:15:00+05:30",
-      "arrive_local": "2025-10-12T21:45:00+05:30",
+      "origin_iata": "BLR",
+      "destination_iata": "DEL",
+      "depart_date": "2025-10-12 19:15 IST",
+      "arrive_date": "2025-10-12 21:45 IST",
       "duration_min": 150,
       "stops": 0,
       "fare_family": "STANDARD",
-      "baggage_allow": "15kg",
-      "total_fare_inr": 7900
+      "baggage_allowance": "15kg",
+      "total_fare": 7900
     },
     {
       "flight_id": "AI504",
       "airline": "Air India",
-      "depart_local": "2025-10-12T17:10:00+05:30",
-      "arrive_local": "2025-10-12T19:50:00+05:30",
+      "origin_iata": "BLR",
+      "destination_iata": "DEL",
+      "depart_date": "2025-10-12 17:10 IST",
+      "arrive_date": "2025-10-12 19:50 IST",
       "duration_min": 160,
       "stops": 0,
       "fare_family": "FLEX",
-      "baggage_allow": "20kg",
-      "total_fare_inr": 12450
+      "baggage_allowance": "20kg",
+      "total_fare": 12450
     }
-  ]
+  ],
+  "text": "Here are your BLR → DEL options for 12 Oct 2025:\n• 6E205 (IndiGo) dep 18:30 IST, arr 21:00 IST, Saver, ₹8,450\n• SG812 (SpiceJet) dep 19:15 IST, arr 21:45 IST, Standard, ₹7,900\n• AI504 (Air India) dep 17:10 IST, arr 19:50 IST, Flex, ₹12,450\n\nPlease tell me which flight you’d like to select (e.g., “Select SG812”), or say “earlier”, “cheaper”, or “nonstop only”."
 }

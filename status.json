@@ -1,9 +1,11 @@
 {
   "pnr": "ZX1AB2",
+  "last_name": "Sharma",
+  "flight_id": "G9 102",
   "status_code": "delayed",
-  "status_last_updated": "2025-09-28T14:05:00+05:30",
-  "flight_number": "G9 102",
-  "new_departure": "2025-09-28T18:40:00+05:30",
+  "status_last_updated": "2025-09-28 14:05 IST",
+  "new_departure": "2025-09-28 18:40 IST",
   "terminal": "T3",
-  "gate": "A12"
+  "gate": "A12",
+  "text": "I found booking ZX1AB2 for Sharma. Flight G9 102 is delayed by 45 min.\nNew departure: 18:40 IST (last updated 14:05 IST). Terminal T3, Gate A12.\nWould you like me to (1) subscribe you to SMS alerts, (2) explore rebooking options, or (3) talk to a human agent?"
 }

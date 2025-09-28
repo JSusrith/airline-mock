@@ -4,5 +4,5 @@
   "cancellation_fee": 2000,
   "refund_amount": 10450,
   "currency": "INR",
-  "voucher_option": 11000
+  "text": "Your cancellation is confirmed ✅. Refund of ₹10,450 will be processed to your original payment method.\nNext, you can (1) view your refund summary, (2) request a voucher instead, or (3) talk to a human agent."
 }

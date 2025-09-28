@@ -1,0 +1,37 @@
+{
+  "options": [
+    {
+      "flight_id": "6E205",
+      "airline": "IndiGo",
+      "depart_local": "2025-10-12T18:30:00+05:30",
+      "arrive_local": "2025-10-12T21:00:00+05:30",
+      "duration_min": 150,
+      "stops": 0,
+      "fare_family": "SAVER",
+      "baggage_allow": "15kg",
+      "total_fare_inr": 8450
+    },
+    {
+      "flight_id": "SG812",
+      "airline": "SpiceJet",
+      "depart_local": "2025-10-12T19:15:00+05:30",
+      "arrive_local": "2025-10-12T21:45:00+05:30",
+      "duration_min": 150,
+      "stops": 0,
+      "fare_family": "STANDARD",
+      "baggage_allow": "15kg",
+      "total_fare_inr": 7900
+    },
+    {
+      "flight_id": "AI504",
+      "airline": "Air India",
+      "depart_local": "2025-10-12T17:10:00+05:30",
+      "arrive_local": "2025-10-12T19:50:00+05:30",
+      "duration_min": 160,
+      "stops": 0,
+      "fare_family": "FLEX",
+      "baggage_allow": "20kg",
+      "total_fare_inr": 12450
+    }
+  ]
+}

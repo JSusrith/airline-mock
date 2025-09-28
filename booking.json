@@ -1,11 +1,9 @@
 {
   "pnr": "ZX1AB2",
   "status": "confirmed",
-  "traveler": {
-    "first_name": "Rahul",
-    "last_name": "Sharma"
-  },
-  "flight_id": "6E205",
+  "traveler": { "first_name": "Rahul", "last_name": "Sharma" },
+  "flight_id": "SG812",
   "contact_email": "rahul.sharma@example.com",
-  "contact_phone": "+919876543210"
+  "contact_phone": "+919876543210",
+  "text": "Booking created ✅. Your PNR is ZX1AB2 for traveler Sharma on SG812.\nWould you like me to proceed to payment now, or update contact details / add baggage / pick seats?"
 }

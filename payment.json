@@ -1,0 +1,6 @@
+{
+  "status": "success",
+  "payment_reference_stub": "PMT12345",
+  "amount_inr": 8450,
+  "method": "credit_card"
+}

@@ -1,6 +1,7 @@
 {
   "status": "success",
   "payment_reference_stub": "PMT12345",
-  "amount_inr": 8450,
-  "method": "credit_card"
+  "amount_inr": 7900,
+  "method": "credit_card",
+  "text": "Payment successful ✅ (Ref: PMT12345). Total charged ₹7,900.\nNext: would you like to view your itinerary, add baggage, choose seats, or subscribe to SMS alerts?"
 }

@@ -1,0 +1,11 @@
+{
+  "pnr": "ZX1AB2",
+  "status": "confirmed",
+  "traveler": {
+    "first_name": "Rahul",
+    "last_name": "Sharma"
+  },
+  "flight_id": "6E205",
+  "contact_email": "rahul.sharma@example.com",
+  "contact_phone": "+919876543210"
+}

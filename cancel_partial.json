@@ -1,0 +1,8 @@
+{
+  "pnr": "ZX1AB2",
+  "fare_family": "Saver",
+  "passenger": "Riya Sharma",
+  "cancellation_fee": 2000,
+  "refund_amount": 10450,
+  "text": "Partial cancellation detected. Fare family: Saver. Fee ₹2,000 for Riya Sharma. Refund ₹10,450 will be processed for that passenger. Proceed?"
+}

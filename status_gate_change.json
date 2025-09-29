@@ -1,0 +1,8 @@
+{
+  "pnr": "ZX1AB2",
+  "status_code": "boarding",
+  "status_last_updated": "2025-09-28 14:15 IST",
+  "old_gate": "15",
+  "new_gate": "22",
+  "text": "Flight G9 102 is boarding now. Gate has changed from 15 → 22. Last updated 14:15 IST. Would you like me to send an SMS alert to all passengers?"
+}

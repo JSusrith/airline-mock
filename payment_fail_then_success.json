@@ -1,0 +1,13 @@
+{
+  "attempt": 1,
+  "status": "fail",
+  "reason": "TEMP_NETWORK",
+  "text": "Payment attempt failed ❌ (temporary network issue). Retrying now…",
+  "retry": {
+    "attempt": 2,
+    "status": "success",
+    "payment_reference_stub": "PMT123456",
+    "pnr": "ZX1AB2",
+    "text": "✅ Payment succeeded. PNR ZX1AB2 generated. Confirmation sent to your email."
+  }
+}
